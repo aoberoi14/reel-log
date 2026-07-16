@@ -2,7 +2,7 @@
 
 A personal movie tracker. Search for movies, log the ones you've watched, rate them, jot a quick note, and see stats about your own taste build up over time.
 
-**Live site:** _add your deployed GitHub Pages / Vercel URL here_
+**Live site:** [https://aoberoi14.github.io/reel-log/](https://aoberoi14.github.io/reel-log/)
 
 ## What does this project do?
 
