@@ -1,0 +1,2 @@
+
+const TMDB_API_KEY = "b54a03526514106446616a12edf47cb5";
