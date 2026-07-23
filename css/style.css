@@ -377,12 +377,14 @@ main {
   font-size: 0.78rem;
 }
 .bar-track {
+  display: block;
   background: var(--surface-raised);
   border-radius: 3px;
   height: 10px;
   overflow: hidden;
 }
 .bar-fill {
+  display: block;
   height: 100%;
   background: linear-gradient(90deg, var(--crimson), var(--gold));
   transition: width 0.4s ease;
